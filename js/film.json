@@ -1,0 +1,31 @@
+{
+    "film": [
+        {
+         "image" : "king-kong.jpg",
+         "titre" : "King Kong",
+         "date" : 1993,
+         "real": "Merian C,Cooper,Ernest B",
+         "genre" : "Horreur, Fantastique",
+         "sortie_dvd" :"22 novemebre 2005"
+        
+        },
+        {
+            "image" : "scarface1.jpeg",
+            "titre" : "Scarface",
+            "date" : 1932,
+            "real":"Howard Hawks",
+            "genre" :"Policier , Action",
+            "sortie_dvd" :"23 decembre 2005"
+           
+           },
+           {
+            "image" :"autant-le-vent-little.png",
+            "titre" : "Autant en emporte le vent",
+            "date" :1939,
+            "real": "Victor Fleming",
+            "genre" :"Dramatique, Guerre",
+            "sortie_dvd" :"19 mars 2005"
+           
+           }
+    ]
+}

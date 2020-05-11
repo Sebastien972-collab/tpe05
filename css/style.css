@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+section{
+    width: 60rem;
+    padding-top: 50px;
+    padding-left: 80px;
+    display: block;
+    border: 1 solid black;
+}
+section div{
+	float: left;
+    width: 30%;
+}
+img{
+    width: 15rem;
+}
+ul{
+    border: solid 1px black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul li{
+    
+    margin: 0 auto;
+    list-style-type: none;
+    padding-right: 35px;
+    border: 0,5 solid black;
+}
+ul:nth-child(1n+1){
+    text-align: center;
+    padding: 1rem;
+    margin-right: 10rem;
+    background-color: blue;
+    width: 20rem;
+    padding: 2px;
+}
+ul li:nth-child(1n+2){
+    background-color: aqua;
+    padding-top: 2px;
+    width: 20rem;
+    text-align: left;
+}
